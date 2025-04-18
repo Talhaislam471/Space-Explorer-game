@@ -1,5 +1,5 @@
 # Space-Explorer-game
-## Key Improvements
+## Key features 
 
 ## Proper Display Setup:
 
